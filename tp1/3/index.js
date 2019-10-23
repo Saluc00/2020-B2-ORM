@@ -7,7 +7,11 @@ exports = module.exports = {
   datasets,
   algo: function (input) {
     // YOUR CODE BETWEEN HERE
-    
+    input.forEach(ligne => {
+      ligne.forEach(element => {
+        
+      });
+    });
     // AND HERE
   },
   verify: function (dataset, output) {

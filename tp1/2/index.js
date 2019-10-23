@@ -26,7 +26,6 @@ exports = module.exports = {
     if (poid_total != 0) {
       AR += 1
     }
-    console.log(AR)
     return AR
     // AND HERE
   },
